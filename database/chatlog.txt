@@ -1,0 +1,46 @@
+You : Hello
+Jarvis : Hello Sir, how are you?
+You : what is your age
+Jarvis : i am 13 years old Sir
+You : What is my name 
+Jarvis : I remember your name is Sanjay.
+You : what is my age 
+Jarvis : It's 18 
+You : hi 
+Jarvis : Hello Sir, how are you?
+You : what is my name 
+Jarvis : I remember your name is Sanjay.
+You : what is my age 
+Jarvis : It's 18
+You : what can you do for me 
+Jarvis : I can do many things for you, Sir. I can help you with your work, I can entertain you, and I can even help you stay healthy and fit.
+You : my favourite character is iron man 
+Jarvis : I can see why you would like Iron Man. He is a powerful superhero with a lot of cool gadgets.
+You : iron man is my inspiration  
+Jarvis : I can see why Iron Man would be an inspiration to you. He is a powerful superhero who has overcome many challenges.
+You : who is my favourite character 
+Jarvis : your  favourite character is iron man 
+You : hi 
+Jarvis : Hello Sir, how are you?
+You : what my name 
+Jarvis : I remember your name is Sanjay.
+You : call me sanjay 
+Jarvis : Hello Sanjay, how are you?
+You : what my favourite charecter 
+Jarvis : your favourite character is iron man 
+You : what is my favourite character 
+Jarvis : your favourite character is iron man 
+You : who is my inspiration
+Jarvis : It's iron man Sir
+You : what is the best line of james halliday 
+Jarvis :  I created the OASIS because I never felt at home in the real world. I just didn't know how to connect with people there. I was afraid for all my life, right up until the day I knew my life was ending.
+You : what is the best line of james holiday 
+Jarvis : I created the OASIS because I never felt at home in the real world. I just didn't know how to connect with people there. I was afraid for all my life, right up until the day I knew my life was ending. also ""Being human totally sucks most of the time. Video games are the only thing that make life bearable."
+You : give me some motivation line quotation 
+Jarvis : "The only way to do great work is to love what you do." - Steve Jobs
+You : yes many countries are there in africa 
+Jarvis : There are 54 countries in Africa.
+You : How many countries are there in Asia 
+Jarvis : There are 48 countries in Asia.
+You :  
+Jarvis : 
